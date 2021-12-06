@@ -1,0 +1,27 @@
+*
+#Image / Files and Directory Needed
+!*.pdf
+!README
+!AUTHORS
+!final/
+!final/*.c
+!final/*.h
+!final/*.glade
+!final/imageTest/
+!final/imageTest/*.png
+!final/data/
+!final/data/*-ubyte
+!final/data/TMNIST_Data.csv
+!final/data/imgNeeded/
+!final/data/imgNeeded/*.png
+!final/interface/
+!final/interface/*.c
+!final/interface/*.h
+!final/imgProcessing/
+!final/imgProcessing/*.c
+!final/imgProcessing/*.h
+!final/ocr/
+!final/ocr/*.c
+!final/ocr/*.h
+!final/results/
+!final/results/.hidden

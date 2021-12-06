@@ -1,0 +1,18 @@
+Ici sont expliques les differentes fonctionnalites et demos presentes pour la 
+soutenance finale.
+
+OCR:
+	Afin de tester le traitement d'image, l'interface graphique et le 
+	reseau de neurones il suffit de lancer la commande de terminal
+	"make clean all" dans le dossier "final".
+	Celle-ci nettoie les fichiers crees lors d'une execution precedente et
+	cree le fichier "ending" necessaire au lancement du programme.
+	En executant le fichier "ending" l'interface graphique s'ouvre.
+	L'utilisateur doit alors choisir une image pour la tester, deux sont
+	disponibles dans le dossier testImage.
+
+Reseaux de neurones:
+
+	Pour entrainer le reseaux de neurones il faut faire "make clean train"
+	puis executer le fichier "train". Attention cela peut prendre quelques
+	minutes.
