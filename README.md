@@ -1,6 +1,6 @@
 # Sudoku OCR
 
-This repository contains the code for a final project showcasing the capabilities of OCR and neural networks. The project involves recognizing digits in a Sudoku puzzle image and solving the puzzle.
+This repository contains the code for a project showcasing the capabilities of OCR and neural networks. The project involves recognizing digits in a Sudoku puzzle image and solving the puzzle.
 
 ## Features
 
