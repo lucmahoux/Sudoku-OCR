@@ -2,6 +2,8 @@
 
 This repository contains the code for a project showcasing the capabilities of OCR and neural networks. The project involves recognizing digits in a Sudoku puzzle image and solving the puzzle.
 
+![Main page](docs/main_page.png)
+
 ## Features
 
 - Optical character recognition (OCR) of digits in a Sudoku puzzle image
